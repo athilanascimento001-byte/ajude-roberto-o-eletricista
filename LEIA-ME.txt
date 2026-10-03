@@ -1,0 +1,2 @@
+Opcional: coloque aqui click.mp3, ring.mp3, err.mp3, spark.mp3, step.mp3, good.mp3, win.mp3, page.mp3 e mude USE_AUDIO_FILES para true em game.js.
+Sem arquivos, o jogo usa sons sintetizados.
